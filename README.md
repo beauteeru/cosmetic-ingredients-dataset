@@ -24,7 +24,7 @@ Columns:
 
 ## 📝 Example rows
 
-| NAME INCI   | COSING_ID | CAS      | EINECS   | PubChem_ID |
+| NAME INCI   | substanceId(COSING_ID) | CAS      | EINECS   | PubChem_ID |
 |-------------|-----------|----------|----------|------------|
 | Glycerin    | 12345     | 56-81-5  | 200-289-5| 753        |
 | Niacinamide | 54321     | 98-92-0  | 202-713-4| 936        |
